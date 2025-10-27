@@ -12,7 +12,7 @@ It allows users to check real-time weather information for any city worldwide.
 
 This app uses the **Current Weather Data API**.
 
-About OpenWeather API
+# About OpenWeather API
 The **OpenWeather API** provides real-time and forecast weather data for any location worldwide 
 by **inputting the city name**.
 It offers multiple endpoints to access current weather, hourly forecasts.
